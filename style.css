@@ -179,6 +179,11 @@ div {
         font-weight: 900;
     }
 
+    .banner {
+        min-height: 100vh;
+        background-size: cover;
+    }
+
     .section {
         grid-template-columns: repeat(1, 80%);
     }
