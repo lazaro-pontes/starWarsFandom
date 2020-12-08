@@ -167,7 +167,7 @@ div {
     }
 }
 
-@media (max-width: 550px) and (min-width: 360px){
+@media (max-width: 550px){
     .header {
         display: flex;
         align-items: center;
