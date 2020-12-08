@@ -168,6 +168,12 @@ div {
 }
 
 @media (max-width: 550px) and (min-width: 360px){
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
     .logo {
         font-size: 2em;
         font-weight: 900;
